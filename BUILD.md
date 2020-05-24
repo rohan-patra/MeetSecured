@@ -12,6 +12,12 @@
 - LivePeerJS
 - Domain set up and pointed to IP
 
+
+
+**Clone Source Using Below Command**
+
+`git clone https://github.com/rohan-patra/MeetSecured.git`
+
 **Ready to Install**
 - `echo 'deb https://download.jitsi.org stable/' > /etc/apt/sources.list.d/jitsi-stable.list`
 - `wget -qO - https://download.jitsi.org/jitsi-key.gpg.key | apt-key add -` 
