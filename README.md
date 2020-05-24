@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/aAV4KCD.jpg)
+![Logo](https://i.imgur.com/yvNKHiT.png)
 
 # Demo
 
